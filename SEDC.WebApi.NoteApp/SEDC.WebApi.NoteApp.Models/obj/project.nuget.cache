@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SSj1QgALTPPhNWClpg3X6g/umHG2wRlrdDG6g1Dt6ZRwD77Ba3X4qP3W0i+G73UXeqiPABMJs6DwYyRADoez9g==",
+  "success": true,
+  "projectFilePath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\SEDC.WebApi.NoteApp\\SEDC.WebApi.NoteApp.Models\\SEDC.WebApi.NoteApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
