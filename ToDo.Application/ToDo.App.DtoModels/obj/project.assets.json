@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj",
       "projectName": "ToDo.App.DtoModels",
-      "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj",
+      "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\obj\\",
+      "outputPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

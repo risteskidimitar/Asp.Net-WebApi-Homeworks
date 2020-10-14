@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQyVoWYFHWZLLPHFYwWc0fcFdtEOW9M6KrNEG968KOAxyvREaroNW0M74BfTaoyNA1ChaqXCBl7/1adbi1nD5g==",
+  "dgSpecHash": "YumAlhpmoF0h/WXYnBL6LLnBl3k4IC7Y+5DezZSnlkcTOkoyxcdV5Fh2zLkpbrTUnCYscBhc6MsI1y4zqv2g0Q==",
   "success": true,
-  "projectFilePath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DataAccess\\ToDo.App.DataAccess.csproj",
+  "projectFilePath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DataAccess\\ToDo.App.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.1.1\\microsoft.entityframeworkcore.2.1.1.nupkg.sha512",

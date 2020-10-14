@@ -3184,11 +3184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DataModels\\ToDo.App.DataModels.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DataModels\\ToDo.App.DataModels.csproj",
       "projectName": "ToDo.App.DataModels",
-      "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DataModels\\ToDo.App.DataModels.csproj",
+      "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DataModels\\ToDo.App.DataModels.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DataModels\\obj\\",
+      "outputPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DataModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12161,11 +12161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App\\ToDo.App.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App\\ToDo.App.csproj",
       "projectName": "ToDo.App",
-      "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App\\ToDo.App.csproj",
+      "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App\\ToDo.App.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App\\obj\\",
+      "outputPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12184,11 +12184,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj": {
-              "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj"
+            "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj": {
+              "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.DtoModels\\ToDo.App.DtoModels.csproj"
             },
-            "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.Services\\ToDo.App.Services.csproj": {
-              "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\ToDo.Application\\ToDo.App.Services\\ToDo.App.Services.csproj"
+            "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.Services\\ToDo.App.Services.csproj": {
+              "projectPath": "D:\\SEDC_19\\09_Asp.Net-WebApi\\Homeworks\\Asp.Net-WebApi-Homeworks\\ToDo.Application\\ToDo.App.Services\\ToDo.App.Services.csproj"
             }
           }
         }
