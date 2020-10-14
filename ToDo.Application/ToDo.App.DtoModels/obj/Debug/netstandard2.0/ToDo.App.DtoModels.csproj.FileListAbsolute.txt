@@ -7,3 +7,12 @@ D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\D
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.csproj.CoreCompileInputs.cache
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.dll
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\bin\Debug\netstandard2.0\ToDo.App.DtoModels.deps.json
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\bin\Debug\netstandard2.0\ToDo.App.DtoModels.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\bin\Debug\netstandard2.0\ToDo.App.DtoModels.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.csprojAssemblyReference.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.AssemblyInfoInputs.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.AssemblyInfo.cs
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.csproj.CoreCompileInputs.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DtoModels\obj\Debug\netstandard2.0\ToDo.App.DtoModels.pdb

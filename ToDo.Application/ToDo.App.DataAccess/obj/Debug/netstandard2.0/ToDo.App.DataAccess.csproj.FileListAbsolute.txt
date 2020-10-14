@@ -10,3 +10,15 @@ D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.csproj.CopyComplete
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.dll
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\bin\Debug\netstandard2.0\ToDo.App.DataAccess.deps.json
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\bin\Debug\netstandard2.0\ToDo.App.DataAccess.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\bin\Debug\netstandard2.0\ToDo.App.DataAccess.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\bin\Debug\netstandard2.0\ToDo.App.DataModels.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\bin\Debug\netstandard2.0\ToDo.App.DataModels.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.csprojAssemblyReference.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.AssemblyInfoInputs.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.AssemblyInfo.cs
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.csproj.CoreCompileInputs.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.csproj.CopyComplete
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App.DataAccess\obj\Debug\netstandard2.0\ToDo.App.DataAccess.pdb
