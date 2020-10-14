@@ -1,0 +1,16 @@
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.Services.deps.json
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.Services.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.Services.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.DataAccess.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.DataModels.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.DtoModels.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.DataAccess.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.DataModels.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\bin\Debug\netstandard2.0\ToDo.App.DtoModels.pdb
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.csprojAssemblyReference.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.AssemblyInfoInputs.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.AssemblyInfo.cs
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.csproj.CoreCompileInputs.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.csproj.CopyComplete
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.dll
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\ToDo.Application\ToDo.App.Services\obj\Debug\netstandard2.0\ToDo.App.Services.pdb
