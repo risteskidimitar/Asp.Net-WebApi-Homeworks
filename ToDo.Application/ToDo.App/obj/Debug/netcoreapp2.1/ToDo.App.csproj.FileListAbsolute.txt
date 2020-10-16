@@ -52,3 +52,4 @@ D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App\obj\Debug\netcoreapp2.1\ToDo.App.dll
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App\obj\Debug\netcoreapp2.1\ToDo.App.pdb
 D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App\obj\Debug\netcoreapp2.1\ToDo.App.genruntimeconfig.cache
+D:\SEDC_19\09_Asp.Net-WebApi\Homeworks\Asp.Net-WebApi-Homeworks\ToDo.Application\ToDo.App\bin\Debug\netcoreapp2.1\ToDo.App.xml
